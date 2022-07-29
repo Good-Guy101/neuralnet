@@ -1,0 +1,1 @@
+g++ main.cpp ./matmath/Matrix.cpp Layer.cpp Network.cpp -o neuralnet && ./neuralnet
